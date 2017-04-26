@@ -1,7 +1,7 @@
 # calculator
 
 
-#### By David & Roger
+#### By David & Hallie
 
 ## Description
 
@@ -21,7 +21,7 @@ none yet
 
 davidrolfs15@gmail.com
 
-celticspyder14@gmail.com
+halle.tempest@gmail.com
 ## Technologies Used
 
 javascript
@@ -37,4 +37,4 @@ html
 
 MIT
 
-Copyright (c) 2016 David & Roger
+Copyright (c) 2016 David & Hallie
